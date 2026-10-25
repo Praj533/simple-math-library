@@ -20,7 +20,7 @@ Example:
 SimpleMath.add(10, 5); // Returns 15
 
 ## Version
-1.0.0
+1.1.0
 
 ## License
 MIT License
